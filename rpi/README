@@ -1,1 +1,10 @@
-readme
+/etc
+
+Configuration files of Raspbian 9.8 (codename “Stretch”)
+edited to sync time with a serial GPS and to 
+make an ethernet connection to a FLIR A655SC camera
+
+/home/pi
+
+Custom code (Python, Bash) to connect to the FLIR camera
+trigger image acquisition and download the data to disk
